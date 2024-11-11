@@ -1,0 +1,43 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&family=Outfit:wght@100..900&display=swap');
+
+
+
+
+body{
+    background-color: #D6E2F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.card {
+    background-color: white;
+    border-radius: 15px;
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    padding: 20px;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 15px;
+    max-width: 700px;
+    margin: 0 auto 13px;
+    margin-bottom: 5px;
+}
+
+.card h1 {
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.card p {
+    color: grey;
+    margin: 20px;
+    font-size: 17px;
+    font-weight: 570;
+}
